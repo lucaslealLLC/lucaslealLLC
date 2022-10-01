@@ -5,7 +5,9 @@
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning DevOps
 
-<div align="center">
+##
+
+<div align="left">
   <a href="https://github.com/lucaslealLLC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslealLLC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
@@ -27,5 +29,5 @@
 
 **Connect with me:**
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-leal-da-costa/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="lucaslealLLC" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lucas-leal-da-costa/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="lucaslealLLC" height="50" width="50" /></a> &nbsp;&nbsp;
 </p>
