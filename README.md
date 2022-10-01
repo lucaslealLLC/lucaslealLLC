@@ -15,14 +15,14 @@
 ##
 
  **Languages and Technologies:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Lucas-AWS" height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Lucas-DOCKER" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+<div style="display: inline-block"><br>
+  <img align="center" alt="Lucas-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-Python" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Ts" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Lucas-Go" height="90" width="100" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/go/go.svg">
+  <img align="center" alt="Lucas-AWS" height="100" width="120" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Lucas-DOCKER" height="70" width="100" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Lucas-SERVERLESS" height="50" width="50" src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg">
-  <img align="center" alt="Lucas-Go" height="90" width="90" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/go/go.svg">
  </div>
 
 ##
