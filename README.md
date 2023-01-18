@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<h4>I'm Lucas L. da Costa Backend Developer from Brazil</h4>
+<h4>I'm Lucas L. da Costa Back end Developer from Brazil</h4>
 
-- 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning DevOps
+🔭 I’m currently working on Back end Development
 
 ##
 
